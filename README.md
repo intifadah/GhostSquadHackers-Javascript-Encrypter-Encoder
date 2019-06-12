@@ -1,6 +1,6 @@
 
 # GhostSquadHackers-Javascript-Encrypter-Encoder
-Encrypt/Encode your Javascript code. (Windows Scripting)
+Encrypt/Encode your Javascript payloads/code. (Windows Scripting)
 
 ![GSHJE](https://user-images.githubusercontent.com/51238001/59324548-dff46c00-8cce-11e9-8151-1562bdfe5b82.PNG)
 
