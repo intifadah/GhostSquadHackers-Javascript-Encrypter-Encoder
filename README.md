@@ -19,6 +19,6 @@ This tool is meant to encode and encrypt your javascript code.
 
 # current Extras:
 - create Badbunny JS-infector
-- customize JS Downloader
+- customize JS Downloader (payload dropper)
 
 (c) Coded by Necronomikon
