@@ -13,3 +13,5 @@ Binary Encrypt,
 Random Octal Quotes,
 Add trash to code,
 Url Encode.
+
+(c) Coded by Necronomikon
